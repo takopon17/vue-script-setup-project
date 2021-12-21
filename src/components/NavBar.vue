@@ -1,4 +1,4 @@
-<script setup>
+<script lang="ts" setup>
 import { Menu, MenuButton, MenuItems, MenuItem } from "@headlessui/vue";
 import {
   HomeIcon,
